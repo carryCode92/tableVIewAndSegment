@@ -1,0 +1,4 @@
+# tableVIewAndSegment
+tableView+segment+scrollVoew的联动
+可以通过segment调节tableView的左右滑动也可以用手势进行左右滑动
+segment的下划线要自己添加，滑动效果随tableView的滑动,不是一次滑动完毕，有个渐进的滑动效果。
